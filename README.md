@@ -1,3 +1,5 @@
+Leave all files in the folder with the exe.
+
 just chuck your inputs into 'input.txt' and then run the program.
 Example and notes are provided in the given text files.
 
